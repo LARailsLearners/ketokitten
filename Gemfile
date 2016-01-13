@@ -26,7 +26,6 @@ gem 'faker'
 
 # User Authentication
 gem 'devise', '~> 3.5', '>= 3.5.3'
-
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
